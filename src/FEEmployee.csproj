@@ -10,4 +10,8 @@
     <ProjectReference Include="..\ProblemTwo\ProblemTwo.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="output\" />
+  </ItemGroup>
+
 </Project>
