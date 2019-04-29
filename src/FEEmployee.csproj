@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProblemOne\ProblemOne.csproj" />
+    <ProjectReference Include="..\ProblemTwo\ProblemTwo.csproj" />
+  </ItemGroup>
+
+</Project>
